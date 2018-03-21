@@ -1,0 +1,236 @@
+
+        body{
+            font-family: "Roboto", sans-serif;
+            color: #757575;
+            background-color:#f1f1f1;
+}
+H2{margin-left:16px;
+font-weight:400;
+    font-size:30px;}
+H4{margin-left:16px;}
+p{margin-left:16px;}
+
+
+        #wrapper{
+            float:left;
+            position:absolute;
+            width:1800px;
+}
+.left-colomn{
+            background-color: white;
+            float:left;
+            position:relative;
+            width:400px;
+            min-height: 1163px;
+            box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+            margin:10px 6px 0px 60px;
+            
+}
+        
+
+
+.right-end-colomn{
+            background-color: white;
+            float:left;
+            position:relative;
+            width:800px;
+            min-height: 500px;
+            box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+            border:0px solid black;
+            margin:10px;
+            margin-top:6px; 
+}
+
+        .work{margin:20px;}
+
+        #werk{color:#009688;
+            margin-right: 16px;
+            
+
+}
+
+        #adres{color:#009688;
+            margin-right: 16px;
+            
+            
+}
+
+        #mail{
+            color:#009688;
+            margin-right: 16px;
+            
+    
+}
+        #phone{
+       color:#009688;
+       margin-right: 16px;
+            
+    
+}
+        .img{
+            width:100%;
+            border-style:none;
+            
+}
+        .naam{
+            color:#009688;
+            margin-left: 15px;
+            
+
+}
+        hr{
+            border:0;
+            border-top: 2px solid #eee;
+            margin: 20px 0;
+            margin-right: 16px;
+            margin-left: 16px;
+
+}
+
+    #i-vaardigheden{
+     color:#009688;
+       margin-right: 16px;
+            margin-left: 16px;
+    
+}
+
+    .HTML{margin-left: 16px;}
+
+
+
+    .DivHtmlBackGround{
+    background-color:#f1f1f1;
+    margin-left: 16px;
+    margin-right: 16px;
+    border-radius: 15px;
+}
+
+    .DivHtmlGreenLight{
+    color: #fff;
+    background-color: #009688;
+    text-align: center;
+    border-radius: 15px;
+    width: 75%;
+}
+    .css{margin-left:16px;}
+    .CssDivBackground{
+    background-color:#f1f1f1;
+    border-radius:15px;
+    margin-left:16px;
+    margin-right: 16px;
+    
+    
+}
+    .CssDivGreenLight{
+    color: white;
+    background-color:#009688;
+    width:75%;
+    border-radius:15px;
+    text-align:center;
+}
+    .javaScript{margin-left: 16px;}
+    .JavaScriptDivBackground{
+    background-color:#f1f1f1;
+    margin-left:16px;
+    margin-right:16px;
+    border-radius:15px;
+}
+
+    .JavaScriptDivGreenLight{
+    color:white;
+    background-color:#009688;
+    border-radius:15px;
+    width:25%;
+    text-align:center;
+}
+
+    #language{
+    color:#009688;
+    margin:40px 16px 0px 16px;
+    
+}
+
+    .Nederland{
+    margin-left:16px;
+}
+    .NederlandDivBackground{
+    Background-color:#f1f1f1;
+    border-radius:15px;
+    margin-left:16px;
+    margin-right:16px;
+}
+    .NederlandDivGreenLight{
+    color:white;
+    background-color:#009688;
+    width:75%;
+    border-radius:15px;
+    text-align: center;
+}
+    .Arabisch{
+    margin-left:16px;
+}
+    .ArabischDivGreenLight{
+    background-color:#009688;
+    border-radius:15px;
+    margin-left:16px;
+    margin-right:16px;
+    text-align: center;
+    color:white;
+    
+}
+    .Engels{
+    margin-left:16px;
+}
+    .EngelsDivBackground{
+    background-color:#f1f1f1;
+    color:white;
+    border-radius:15px;
+    margin-left:16px;
+    margin-right:16px;
+    
+}
+    .EngelsDivGreenLight{
+    width:50%;
+    background-color:#009688;
+    border-radius:15px;
+    text-align: center;
+}
+
+
+.right-colomn{
+            background-color: white;
+            float:left;
+            position:relative;
+            width:800px;
+            min-height: 500px;
+            box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+            border:0px solid black;
+            margin:10px;
+            
+}
+.h2werkervaring{
+    font-weight:400;
+    font-size:30px;
+    
+}
+#WerkErvaring{ margin:16px;
+        color:#009688;
+    font-size:35px;
+}
+
+#calander{
+    color:#009688;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.datum{
+    color:#009688;
+}
+
+#icon{
+    color:#009688;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+        
+   
